@@ -242,4 +242,4 @@ more about design over the course of the rest of your programming life.
 
 ## Resources
 
-- [Object-Oriented Programmin (OOP) in Python 3 - Real Python](https://realpython.com/python3-object-oriented-programming/)
+- [Object-Oriented Programmin (OOP) in Python 3 - Real Python](https://realpython.com/python3-object-oriented-programming/)# python-p3-oop-design-principles
